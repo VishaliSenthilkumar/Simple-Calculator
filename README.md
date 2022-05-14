@@ -2,12 +2,14 @@
 
 The App Icon
 
-![app logo](https://user-images.githubusercontent.com/100502539/168404449-d95d909d-10ba-4598-b380-f033fc8a2adf.jpg)
+![AppIcon](https://user-images.githubusercontent.com/100502539/168404584-997a6411-a165-4187-b5ee-362354326a60.jpg)
+
 
 
 The Loading Page
 
-![welcome page](https://user-images.githubusercontent.com/100502539/168404487-84890bc9-2d33-4958-8b92-d1675f25bb69.jpg)
+![Welcome_page](https://user-images.githubusercontent.com/100502539/168404597-889c6f40-3325-4bb4-8823-bc022f810441.jpg)
+
 
 
 The App
